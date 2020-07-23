@@ -1,0 +1,23 @@
+{
+  "name": "trail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "start": "node index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uppalanchi-Venkatesh/trail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uppalanchi-Venkatesh/trail/issues"
+  },
+  "homepage": "https://github.com/Uppalanchi-Venkatesh/trail#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
